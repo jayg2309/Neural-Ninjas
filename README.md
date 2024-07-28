@@ -90,8 +90,8 @@ With the rise of remote work and dispersed teams, there is a growing need for to
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cloud-based-task-manager.git
-    cd cloud-based-task-manager
+    git clone https://github.com/jayg2309/Neural-Ninjas.git
+    cd Neural-Ninjas
     ```
 
 2. Install dependencies for the backend:
@@ -122,15 +122,9 @@ With the rise of remote work and dispersed teams, there is a growing need for to
 
 3. Open your browser and navigate to `http://localhost:3000` to use the application.
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for any changes.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or feedback, please contact [yourname](mailto:yourname@example.com).
 
